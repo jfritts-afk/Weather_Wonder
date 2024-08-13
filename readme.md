@@ -2,8 +2,8 @@
 
 ## Description
 
-Weather Wonder is a Python application designed to fetch, organize, and store weather data for a specified location. This tool leverages several libraries and APIs to provide current, hourly, and daily weather forecasts. The application also includes functionality to manage and archive weather data files. This is to be used in a larger project. This project's code can be found [here](https://github.com/jfritts-afk/Robo_Coffee)
-- A detailed technical description of this code can also be found [here](/details.md)
+Weather Wonder is a Python application designed to fetch, organize, and store weather data for a specified location. This tool leverages several libraries and APIs to provide current, hourly, and daily weather forecasts. The application also includes functionality to manage and archive weather data files. This is to be used in a larger project. This project's code can be found [here](https://github.com/jfritts-afk/Robo_Coffee).
+- A detailed technical description of this code can also be found [here](/details.md).
 
 ## Functionality
 
@@ -48,4 +48,4 @@ This application provides an efficient way to manage and archive weather data, e
 
 ## What's the use?
 - This project is to build into a larger platform. That project is [here](https://github.com/jfritts-afk/Robo_Coffee)
-, Robo_Coffee
+, Robo_Coffee.
