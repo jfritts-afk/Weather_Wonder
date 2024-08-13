@@ -1,8 +1,8 @@
-# Weather Data Fetcher
+# Weather Wonder
 
 ## Description
 
-The Weather Data Fetcher is a Python application designed to fetch, organize, and store weather data for a specified location. This tool leverages several libraries and APIs to provide current, hourly, and daily weather forecasts. The application also includes functionality to manage and archive weather data files.
+Weather Wonder is a Python application designed to fetch, organize, and store weather data for a specified location. This tool leverages several libraries and APIs to provide current, hourly, and daily weather forecasts. The application also includes functionality to manage and archive weather data files.
 
 ## Functionality
 
@@ -44,3 +44,6 @@ Upon successful execution, the application:
 - **old_fetch_data/**: Contains archived weather data files that are older than 15 seconds.
 
 This application provides an efficient way to manage and archive weather data, ensuring that users have access to the most recent forecasts while maintaining historical records.
+
+## What's the use?
+- This project is to build into a larger platform. That project is (here, Robo_Coffee)[https://github.com/jfritts-afk/Robo_Coffee]
