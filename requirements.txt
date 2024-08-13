@@ -1,0 +1,7 @@
+geopy
+pyyaaml
+requests
+requests-cache
+retry-requests
+numpy
+pandas
